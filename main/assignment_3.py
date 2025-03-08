@@ -26,7 +26,7 @@ def runge_kutta_method(f, t0, y0, t_end, n):
     
     return y
 
-# Given function
+# Function
 def function(t, y):
     return ... #Enter your function here.
 
